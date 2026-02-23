@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://gopinathk.me/sitemap.xml
